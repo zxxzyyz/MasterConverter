@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MasterConverter.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="LogFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\Log</Value>
+    </Setting>
+    <Setting Name="LogSavePeriod" Type="System.String" Scope="User">
+      <Value Profile="(Default)">30</Value>
+    </Setting>
+    <Setting Name="CybernePassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2in1suica</Value>
+    </Setting>
+    <Setting Name="CompanyPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2in1suica</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
